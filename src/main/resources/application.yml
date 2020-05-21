@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url:  jdbc:mysql://localhost:3306/springdb?autoReconnect=true&useSSL=false&useUnicode=yes&characterEncoding=UTF-8&useLegacyDatetimeCode=false&serverTimezone=CST
+    username: root
+    password: Xsw2@3#edc
+#    initialization-mode:  always
+
